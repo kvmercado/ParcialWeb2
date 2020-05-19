@@ -1,0 +1,17 @@
+C:\Users\GARCIA\Documents\SegundoParcialWeb\Entity\bin\Debug\netstandard2.1\Entity.deps.json
+C:\Users\GARCIA\Documents\SegundoParcialWeb\Entity\bin\Debug\netstandard2.1\Entity.dll
+C:\Users\GARCIA\Documents\SegundoParcialWeb\Entity\bin\Debug\netstandard2.1\Entity.pdb
+C:\Users\GARCIA\Documents\SegundoParcialWeb\Entity\obj\Debug\netstandard2.1\Entity.csprojAssemblyReference.cache
+C:\Users\GARCIA\Documents\SegundoParcialWeb\Entity\obj\Debug\netstandard2.1\Entity.AssemblyInfoInputs.cache
+C:\Users\GARCIA\Documents\SegundoParcialWeb\Entity\obj\Debug\netstandard2.1\Entity.AssemblyInfo.cs
+C:\Users\GARCIA\Documents\SegundoParcialWeb\Entity\obj\Debug\netstandard2.1\Entity.dll
+C:\Users\GARCIA\Documents\SegundoParcialWeb\Entity\obj\Debug\netstandard2.1\Entity.pdb
+C:\Users\hp\Desktop\parcial\Entity\bin\Debug\netstandard2.1\Entity.deps.json
+C:\Users\hp\Desktop\parcial\Entity\bin\Debug\netstandard2.1\Entity.dll
+C:\Users\hp\Desktop\parcial\Entity\bin\Debug\netstandard2.1\Entity.pdb
+C:\Users\hp\Desktop\parcial\Entity\obj\Debug\netstandard2.1\Entity.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\parcial\Entity\obj\Debug\netstandard2.1\Entity.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\parcial\Entity\obj\Debug\netstandard2.1\Entity.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\parcial\Entity\obj\Debug\netstandard2.1\Entity.AssemblyInfo.cs
+C:\Users\hp\Desktop\parcial\Entity\obj\Debug\netstandard2.1\Entity.dll
+C:\Users\hp\Desktop\parcial\Entity\obj\Debug\netstandard2.1\Entity.pdb
